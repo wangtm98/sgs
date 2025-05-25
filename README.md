@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/0698df68-0255-45e0-ab76-31915049bb19)# sgs
-具备运行环境后，直接运行test2.py，然后切换页面到
-![image](https://github.com/user-attachments/assets/cafe135b-7b0b-49bf-8a87-c07f8c9b4553)
+
+具备运行环境后，直接运行test2.py，然后切换页面到如下图所示即可
+
+![image](https://github.com/user-attachments/assets/2d77c2c6-bc81-4de3-a7f1-4d0d773641f9)
 
 
 限制1.脚本需要电脑有Python环境，并且运行脚本后，全程打开网页版三国杀。
